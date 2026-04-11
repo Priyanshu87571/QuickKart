@@ -143,8 +143,3 @@ Built with ❤️ by **Priyanshu Raj**
 
 This project is open-source and free to use for learning and portfolio purposes.
 
-
-
-
-
-

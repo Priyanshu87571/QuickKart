@@ -5,6 +5,11 @@ It simulates a real-world grocery delivery platform with a complete customer and
 
 ---
 
+## 🚀 Live Demo
+
+🌐 Live Site: (Add your deployed link here)
+---
+
 ## 🚀 Project Overview
 
 QuickKart provides a fast and smooth shopping experience for users and a management interface for admins.  

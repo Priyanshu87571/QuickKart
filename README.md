@@ -97,6 +97,7 @@ frontend/
 │ ├── types/ # TypeScript types
 
 │ └── hooks/ # Custom hooks
+
 ├── public/ # Static assets
 ├── package.json
 └── README.md

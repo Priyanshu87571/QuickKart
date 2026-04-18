@@ -99,6 +99,7 @@ frontend/
 │ └── hooks/ # Custom hooks
 
 ├── public/ # Static assets
+
 ├── package.json
 └── README.md
 

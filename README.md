@@ -11,8 +11,6 @@ It simulates a real-world grocery delivery platform with a complete customer and
 <img width="1871" height="854" alt="image" src="https://github.com/user-attachments/assets/93a8d20f-a128-4472-a0c5-ae760e48efd0" />
 <img width="1211" height="797" alt="image" src="https://github.com/user-attachments/assets/7f9df3ae-41a8-4657-abdb-9fbff9396f27" />
 
-                
-
 ---
 
 ## 🚀 Project Overview

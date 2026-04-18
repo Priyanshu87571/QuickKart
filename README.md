@@ -71,6 +71,7 @@ frontend/
 │ │ ├── checkout/
 
 │ │ ├── orders/
+
 │ │ ├── profile/
 │ │ └── admin/
 │ ├── components/ # Reusable UI components

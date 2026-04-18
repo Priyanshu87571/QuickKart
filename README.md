@@ -59,6 +59,7 @@ The frontend is designed to be scalable, responsive, and ready for backend integ
 ## 📁 Project Structure
 
 frontend/
+
 ├── src/
 │ ├── app/ # App Router pages
 │ │ ├── products/

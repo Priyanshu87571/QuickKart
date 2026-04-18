@@ -65,6 +65,7 @@ frontend/
 │ ├── app/ # App Router pages
 
 │ │ ├── products/
+
 │ │ ├── cart/
 │ │ ├── checkout/
 │ │ ├── orders/

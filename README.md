@@ -95,6 +95,7 @@ frontend/
 │ ├── store/ # Zustand state management
 
 │ ├── types/ # TypeScript types
+
 │ └── hooks/ # Custom hooks
 ├── public/ # Static assets
 ├── package.json

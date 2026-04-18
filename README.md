@@ -79,6 +79,7 @@ frontend/
 │ ├── components/ # Reusable UI components
 
 │ │ ├── layout/
+
 │ │ ├── product/
 │ │ ├── cart/
 │ │ ├── checkout/

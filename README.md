@@ -101,6 +101,7 @@ frontend/
 ├── public/ # Static assets
 
 ├── package.json
+
 └── README.md
 
 ---

@@ -89,6 +89,7 @@ frontend/
 │ │ ├── orders/
 
 │ │ ├── profile/
+
 │ │ └── admin/
 │ ├── store/ # Zustand state management
 │ ├── types/ # TypeScript types

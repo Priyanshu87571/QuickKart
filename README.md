@@ -61,6 +61,7 @@ The frontend is designed to be scalable, responsive, and ready for backend integ
 frontend/
 
 ├── src/
+
 │ ├── app/ # App Router pages
 │ │ ├── products/
 │ │ ├── cart/

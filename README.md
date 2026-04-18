@@ -109,7 +109,7 @@ frontend/
 ## 🧪 Getting Started
 
 ### 1. Clone the Repository
-git clone :-
+git clone :- https://github.com/Priyanshu87571/QuickKart.git
 
 ### 2. Navigate to Frontend
 cd frontend

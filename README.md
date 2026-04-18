@@ -91,6 +91,7 @@ frontend/
 │ │ ├── profile/
 
 │ │ └── admin/
+
 │ ├── store/ # Zustand state management
 │ ├── types/ # TypeScript types
 │ └── hooks/ # Custom hooks

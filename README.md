@@ -73,6 +73,7 @@ frontend/
 │ │ ├── orders/
 
 │ │ ├── profile/
+
 │ │ └── admin/
 │ ├── components/ # Reusable UI components
 │ │ ├── layout/

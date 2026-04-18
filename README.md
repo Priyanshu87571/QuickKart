@@ -7,7 +7,8 @@ It simulates a real-world grocery delivery platform with a complete customer and
 
 ## 🚀 Live Demo
 
-🌐 Live Site:-                 
+🌐 Live Site:- <img width="1871" height="854" alt="image" src="https://github.com/user-attachments/assets/93a8d20f-a128-4472-a0c5-ae760e48efd0" />
+                
 
 ---
 
